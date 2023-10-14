@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abhim27/Netflix-clone.git/static/css/main.1b474e37.chunk.css",
+    "main.js": "/abhim27/Netflix-clone.git/static/js/main.41879332.chunk.js",
+    "main.js.map": "/abhim27/Netflix-clone.git/static/js/main.41879332.chunk.js.map",
+    "runtime-main.js": "/abhim27/Netflix-clone.git/static/js/runtime-main.51158c7f.js",
+    "runtime-main.js.map": "/abhim27/Netflix-clone.git/static/js/runtime-main.51158c7f.js.map",
+    "static/js/2.2c268b85.chunk.js": "/abhim27/Netflix-clone.git/static/js/2.2c268b85.chunk.js",
+    "static/js/2.2c268b85.chunk.js.map": "/abhim27/Netflix-clone.git/static/js/2.2c268b85.chunk.js.map",
+    "static/js/3.094fe14e.chunk.js": "/abhim27/Netflix-clone.git/static/js/3.094fe14e.chunk.js",
+    "static/js/3.094fe14e.chunk.js.map": "/abhim27/Netflix-clone.git/static/js/3.094fe14e.chunk.js.map",
+    "index.html": "/abhim27/Netflix-clone.git/index.html",
+    "static/css/main.1b474e37.chunk.css.map": "/abhim27/Netflix-clone.git/static/css/main.1b474e37.chunk.css.map",
+    "static/js/2.2c268b85.chunk.js.LICENSE.txt": "/abhim27/Netflix-clone.git/static/js/2.2c268b85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51158c7f.js",
+    "static/js/2.2c268b85.chunk.js",
+    "static/css/main.1b474e37.chunk.css",
+    "static/js/main.41879332.chunk.js"
+  ]
+}
